@@ -12,7 +12,7 @@
 
 <a href="https://github.com/mursyiedqathafi">
   <img alt="Mursyied's all Git commits" height="180em" src="https://github-readme-stats.vercel.app/api?username=mursyiedqathafi&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
-  <img alt="Mursyied's most used languages" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mursyiedqathafi&layout=compact&theme=vue-dark&hide=shards,shaderlab,hlsl,html,css&langs_count=6" />
+  <img alt="Mursyied's most used languages" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mursyiedqathafi&layout=compact&theme=vue-dark&hide=shards,shaderlab,hlsl,html,css,swift&langs_count=6" />
 </a>
 
 <br />
@@ -25,6 +25,10 @@
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />&nbsp;&nbsp;
 <img alt="HTML" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
 <img alt="CSS" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
+<img alt="SWIFT" src="https://img.shields.io/badge/SWIFT%20-%23E34F26.svg?&style=for-the-badge&logo=swift&logoColor=white" />&nbsp;&nbsp;
+<img alt="PYTHON" src="https://img.shields.io/badge/PYTHON%20-%9b3934.svg?&style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;
+
+
 
 <!-- <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp; -->
 <!-- <img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white" />&nbsp;&nbsp; -->
