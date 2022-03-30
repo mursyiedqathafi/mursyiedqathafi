@@ -21,32 +21,38 @@
 
 ### Languages :
 
-<img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;&nbsp;
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />&nbsp;&nbsp;
-<img alt="HTML" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
-<img alt="CSS" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
-<img alt="SWIFT" src="https://img.shields.io/badge/SWIFT%20-%23E34F26.svg?&style=for-the-badge&logo=swift&logoColor=white" />&nbsp;&nbsp;
-<img alt="PYTHON" src="https://img.shields.io/badge/PYTHON%20-%9b3934.svg?&style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;
+<img alt="SWIFT" src="https://img.shields.io/badge/SWIFT%20-%2320232a.svg?&style=for-the-badge&logo=swift&logoColor=white" />&nbsp;&nbsp;
+<img alt="PYTHON" src="https://img.shields.io/badge/PYTHON%20-%234ea94b.svg?&style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;
+<img alt="KOTLIN" src="https://img.shields.io/badge/KOTLIN%20-%2320232a.svg?&style=for-the-badge&logo=kotlin&logoColor=white" />&nbsp;&nbsp;
+<img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23007ACC.svg?&style=for-the-badge&logo=sql&logoColor=white" />&nbsp;&nbsp;
+<img alt="JAVA" src="https://img.shields.io/badge/JAVA%20-%2320232a.svg?&style=for-the-badge&logo=java&logoColor=white" />&nbsp;&nbsp;
+
 
 
 
 <!-- <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp; -->
 <!-- <img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white" />&nbsp;&nbsp; -->
 
+### IDE :
+<img alt="XCODE" src="https://img.shields.io/badge/xcode%20-%2320232a.svg?&style=for-the-badge&logo=xcode&logoColor=%2361DAFB" />&nbsp;&nbsp;
+
+
+
+
 ### Libraries/Frameworks :
 
-<img alt="ReactJS" src="https://img.shields.io/badge/react_JS%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />&nbsp;&nbsp;
-<img alt="Strapi" src="https://img.shields.io/badge/strapi%20-%232E7EEA.svg?&style=for-the-badge&logo=strapi&logoColor=white" />&nbsp;&nbsp;
+<img alt="SPRING" src="https://img.shields.io/badge/spring%20-%2320232a.svg?&style=for-the-badge&logo=spring&logoColor=%2361DAFB" />&nbsp;&nbsp;
+<!-- <img alt="Strapi" src="https://img.shields.io/badge/strapi%20-%232E7EEA.svg?&style=for-the-badge&logo=strapi&logoColor=white" />&nbsp;&nbsp;
 <img alt="React Native" src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />&nbsp;&nbsp;
 <img alt="Ant Design Pro" src="https://img.shields.io/badge/Ant_Design_Pro-0170FE?style=for-the-badge&logo=ant-design&logoColor=white" />&nbsp;&nbsp;
 <img alt="Apollo GraphQL client" src="https://img.shields.io/badge/-Apollo_GraphQL-311C87?style=for-the-badge&logo=apollo-graphql" />&nbsp;&nbsp;
-<img alt="Ant Design" src="https://img.shields.io/badge/-Ant_Design-%230170FE?&style=for-the-badge&logo=ant-design&logoColor=white" />&nbsp;&nbsp;
+<img alt="Ant Design" src="https://img.shields.io/badge/-Ant_Design-%230170FE?&style=for-the-badge&logo=ant-design&logoColor=white" />&nbsp;&nbsp;-->
 
 ### Database Management System :
 
 <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;
 
-<!-- <img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp; -->
+<img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;
 
 ### API :
 
