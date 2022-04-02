@@ -21,7 +21,7 @@
 
 ### Languages :
 
-<img alt="SWIFT" src="https://img.shields.io/badge/SWIFT%20-%2320232a.svg?&style=for-the-badge&logo=swift&logoColor=white" />&nbsp;&nbsp;
+<img alt="SWIFT" src="https://img.shields.io/badge/SWIFT%20-%23F05033.svg?&style=for-the-badge&logo=swift&logoColor=white" />&nbsp;&nbsp;
 <img alt="PYTHON" src="https://img.shields.io/badge/PYTHON%20-%234ea94b.svg?&style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;
 <img alt="KOTLIN" src="https://img.shields.io/badge/KOTLIN%20-%2320232a.svg?&style=for-the-badge&logo=kotlin&logoColor=white" />&nbsp;&nbsp;
 <img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23007ACC.svg?&style=for-the-badge&logo=sql&logoColor=white" />&nbsp;&nbsp;
