@@ -12,6 +12,7 @@
 
 <a href="https://github.com/mursyiedqathafi">
   <img alt="Mursyied's all Git commits" height="180em" src="https://github-readme-stats.vercel.app/api?username=mursyiedqathafi&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
+  
   <img alt="Mursyied's most used languages" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mursyiedqathafi&layout=compact&theme=vue-dark&hide=shards,shaderlab,hlsl,html,css,swift&langs_count=6" />
 </a>
 
@@ -21,11 +22,12 @@
 
 ### Languages :
 
-<img alt="SWIFT" src="https://img.shields.io/badge/SWIFT%20-%23F05033.svg?&style=for-the-badge&logo=swift&logoColor=white" />&nbsp;&nbsp;
-<img alt="PYTHON" src="https://img.shields.io/badge/PYTHON%20-%234ea94b.svg?&style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;
-<img alt="GO" src="https://img.shields.io/badge/golang%20-%2320232a.svg?&style=for-the-badge&logo=golang&logoColor=white" />&nbsp;&nbsp;
-<img alt="SQL" src="https://img.shields.io/badge/MySQL%20-%23007ACC.svg?&style=for-the-badge&logo=sql&logoColor=white" />&nbsp;&nbsp;
+<img alt="SWIFT" src="https://img.shields.io/badge/SWIFT%20-%2320232a.svg?&style=for-the-badge&logo=swift&logoColor=white" />&nbsp;&nbsp;
+<img alt="GO" src="https://img.shields.io/badge/go%20-%2320232a.svg?&style=for-the-badge&logo=go&logoColor=white" />&nbsp;&nbsp;
 <img alt="Javscript" src="https://img.shields.io/badge/JAVASCRIPT%20-%2320232a.svg?&style=for-the-badge&logo=JAVASCRIPT&logoColor=white" />&nbsp;&nbsp; 
+<!-- <img alt="PYTHON" src="https://img.shields.io/badge/PYTHON%20-%234ea94b.svg?&style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;-->
+<!-- <img alt="SQL" src="https://img.shields.io/badge/MySQL%20-%23007ACC.svg?&style=for-the-badge&logo=sql&logoColor=white" />&nbsp;&nbsp;;-->
+
 
 
 
@@ -34,7 +36,7 @@
 <!-- <img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white" />&nbsp;&nbsp; -->
 
 ### IDE :
-<img alt="XCODE" src="https://img.shields.io/badge/xcode%20-%2320232a.svg?&style=for-the-badge&logo=xcode&logoColor=%2361DAFB" />&nbsp;&nbsp;
+<img alt="XCODE" src="https://img.shields.io/badge/xcode%20-%2320232a.svg?&style=for-the-badge&logo=xcode&logoColor=white" />&nbsp;&nbsp;
 
 
 
@@ -50,24 +52,24 @@
 
 ### Database Management System :
 
-<img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;
+<img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%2320232a.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;
 
-<img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/mysql-%2320232a.svg?&style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;
 
 ### API :
 
-<img alt="GraphQL" src="https://img.shields.io/badge/graphql%20-%23E10098.svg?&style=for-the-badge&logo=graphql&logoColor=white" />&nbsp;&nbsp;
+<img alt="GraphQL" src="https://img.shields.io/badge/graphql%20-%2320232a.svg?&style=for-the-badge&logo=graphql&logoColor=white" />&nbsp;&nbsp;
 
 ### Cloud Infrastructure (IaaS & PaaS) :
 
-<img alt="Amazon Web Service (AWS)" src="https://img.shields.io/badge/AWS-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white" />&nbsp;&nbsp;
-<img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />&nbsp;&nbsp;
+<img alt="Amazon Web Service (AWS)" src="https://img.shields.io/badge/AWS-%2320232a.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white" />&nbsp;&nbsp;
+<img alt="Docker" src="https://img.shields.io/badge/docker-%2320232a.svg?style=for-the-badge&logo=docker&logoColor=white" />&nbsp;&nbsp;
 <!-- <img alt="Vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white"/>&nbsp;&nbsp; -->
 <!-- <img alt="Netlify" src="https://img.shields.io/badge/netlify-%2300C7B7.svg?&style=for-the-badge&logo=netlify&logoColor=white"/>&nbsp;&nbsp; -->
 
 ### Version Control :
 
-<img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" />&nbsp;&nbsp;
+<img alt="Git" src="https://img.shields.io/badge/git%20-%2320232a.svg?&style=for-the-badge&logo=git&logoColor=white" />&nbsp;&nbsp;
 
 <!-- <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" />&nbsp;&nbsp; -->
 <!-- <img src="https://img.shields.io/badge/gitlab%20-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white" />&nbsp;&nbsp; -->
@@ -144,12 +146,6 @@
 ## 📜 Publication / Paper
 
 
-<!--
-## 👨🏻‍💻 &nbsp;About Kevin
-
-💡 &nbsp; I love to explore information technology and am passionate in Front-End Development and Cyber Security. <br />
-🎯 &nbsp; My goal is to contribute to my country in IT field. 
--->
 
 <br />
 
