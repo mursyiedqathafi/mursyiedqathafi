@@ -23,9 +23,9 @@
 
 <img alt="SWIFT" src="https://img.shields.io/badge/SWIFT%20-%23F05033.svg?&style=for-the-badge&logo=swift&logoColor=white" />&nbsp;&nbsp;
 <img alt="PYTHON" src="https://img.shields.io/badge/PYTHON%20-%234ea94b.svg?&style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;
-<img alt="KOTLIN" src="https://img.shields.io/badge/KOTLIN%20-%2320232a.svg?&style=for-the-badge&logo=kotlin&logoColor=white" />&nbsp;&nbsp;
+<img alt="GO" src="https://img.shields.io/badge/golang%20-%2320232a.svg?&style=for-the-badge&logo=golang&logoColor=white" />&nbsp;&nbsp;
 <img alt="SQL" src="https://img.shields.io/badge/MySQL%20-%23007ACC.svg?&style=for-the-badge&logo=sql&logoColor=white" />&nbsp;&nbsp;
-<img alt="JAVA" src="https://img.shields.io/badge/JAVA%20-%2320232a.svg?&style=for-the-badge&logo=java&logoColor=white" />&nbsp;&nbsp; 
+<img alt="Javscript" src="https://img.shields.io/badge/JAVASCRIPT%20-%2320232a.svg?&style=for-the-badge&logo=JAVASCRIPT&logoColor=white" />&nbsp;&nbsp; 
 
 
 
